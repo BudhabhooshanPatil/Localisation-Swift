@@ -89,3 +89,4 @@ fastlane/test_output
 
 iOSInjectionProject/
 .DS_Store
+Localisation-Swift/Localisation-Swift.xcodeproj/xcshareddata/xcschemes/Localisation-Swift.xcscheme
