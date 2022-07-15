@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Localisation-Swift
+
+  Created by Bhooshan Patil on 16/07/22.
+  
+*/
+// In-Hindi --> Target.Page.Text
+"app.landingpage.greetings" = "नमस्ते...!";

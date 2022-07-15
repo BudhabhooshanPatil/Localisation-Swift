@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Localisation-Swift
+
+  Created by Bhooshan Patil on 16/07/22.
+  
+*/
+// US-English --> Target.Page.Text
+"app.landingpage.greetings" = "Hello...!";
